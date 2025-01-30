@@ -31,8 +31,8 @@ Antes de ejecutar este entorno, asegúrate de tener instalados:
 ## 🚀 **Cómo ejecutar el entorno local**
 1. Clonar este repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/infra-docker-compose.git
-   cd infra-docker-compose
+   git clone https://github.com/codelious/tenpo-backend-challenge-infra.git
+   cd tenpo-backend-challenge-infra
    ```
 
 2. Ejecutar el siguiente comando para levantar todos los servicios:
@@ -75,8 +75,3 @@ Si deseas eliminar volúmenes y caché:
 ```sh
   docker-compose down -v
 ```
-
----
-
-## 📜 **Licencia**
-Este proyecto es de código abierto y está disponible bajo la licencia [MIT](LICENSE).
